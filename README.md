@@ -76,6 +76,9 @@ Implementing a page within the navigation bar that directs the user to a list of
 Chatbot functionality that when the user asks various questions about their financial status, the bot will return related updates and encouragements. For example, the user could ask the chatbot how their investments are performing, if they are on track with their budget, or if they could recommend further reading regarding a specific topic. 
 
 
+### Certificate of Participation [here](./src/assets/certificate/carly-wilk-ws-industry-participation-certificate.pdf)
+
+
 ### References
 - [Wealth Simple](https://www.wealthsimple.com/en-ca)
 - [5 ways young Canadians can prepare financially for what awaits in 2024](https://www.moneysense.ca/columns/making-it/5-ways-young-canadians-can-prepare-financially-for-next-year/)
